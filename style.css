@@ -1,0 +1,73 @@
+header
+{
+	background-color: #dce42c;
+	
+}
+
+h1
+{
+	font-family: helvetica;
+	text-align: center;
+}
+body
+{
+	text-align: left;
+	
+}
+footer
+{
+	text-align: center;
+	background-color: #dce42c;
+	font-family: helvetica;
+	
+}
+
+
+.facebook
+{
+	transition: color 0.2s;
+	margin: 0 5px;
+}
+.twitter
+{
+	transition: color 0.2s;
+	margin: 0 5px;
+}
+.linkedin
+{
+	transition: color 0.2s;
+	margin: 0 5px;
+}
+.website
+{
+	transition: color 0.2s;
+	margin: 0 5px;
+}
+.call
+{
+	transition: color 0.2s;
+	margin: 0 5px;
+}
+
+
+
+.facebook:hover
+{
+	color: #fff;
+}
+.twitter:hover
+{
+	color: #fff;
+}
+.linkedin:hover
+{
+	color: #fff;
+}
+.call:hover
+{
+	color: #fff;
+}
+.web:hover
+{
+	color: #fff;
+}
